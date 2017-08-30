@@ -1,4 +1,4 @@
-package com.example.javamavenjunithelloworld;
+package com.example.helloworld;
 
 import java.io.PrintStream;
 
