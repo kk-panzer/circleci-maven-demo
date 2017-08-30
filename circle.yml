@@ -1,5 +1,0 @@
-deployment:
-  main:
-    branch: master
-    commands:
-      - mvn -B clean compile test
