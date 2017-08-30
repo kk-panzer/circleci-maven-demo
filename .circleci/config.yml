@@ -1,0 +1,7 @@
+version: 2
+jobs:
+ build:
+	working_directory: ~/tmp
+	steps:
+	  - checkout
+	  - run mvn clean compile
